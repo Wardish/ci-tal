@@ -1,0 +1,20 @@
+{
+    "name": "wardish/ci-tal",
+    "description": "PHPTAL with CodeIgniter 3.x",
+    "keywords": [
+        "codeigniter",
+        "phptal"
+    ],
+    "homepage": "http://github.com/Wardish/ci-tal/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wardish,LLC.",
+            "homepage": "https://github.com/Wardish/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "phptal": ">=1.3.0"
+    }
+}
