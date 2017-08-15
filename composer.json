@@ -6,7 +6,7 @@
         "phptal"
     ],
     "homepage": "http://github.com/Wardish/ci-tal/",
-    "license": "MIT",
+    "license": "Apache v2.0",
     "authors": [
         {
             "name": "Wardish,LLC.",
